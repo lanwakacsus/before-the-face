@@ -1,0 +1,8 @@
+# Development-only files; the deployed site needs only index.html, the JS/CSS, and assets/.
+tests/
+package.py
+asset-prompts.json
+new-character-prompts.json
+photo-prompts.json
+README.md
+.DS_Store

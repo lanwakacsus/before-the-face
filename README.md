@@ -10,6 +10,10 @@ Open `index.html` in a browser, or run `python3 -m http.server 4317 --bind 127.0
 
 Choose a person from the calendar. Click a reply or press 1–5. The entire conversation stays in the same time slot, and the transcript remains scrollable. Finish with a goodbye to return to the calendar. Text replies send first, show a delivered/read status, then arrive in separate bubbles after a short typing pause. Longer messages take a little longer (at most 2.6 seconds per bubble). Choose “Show reply now” to skip the remaining delivery. Pause freezes the wait; resuming continues it. Reloading restores the completed exchange without resending your choice. In-person conversations do not use phone typing indicators.
 
+## Deploy (Vercel)
+
+The game is a static site with no build step. Import the GitHub repository at vercel.com/new and keep the defaults (Framework Preset: Other, no build command, root directory `./`). `vercel.json` sets static hosting, and `.vercelignore` keeps tests, the packaging script, and prompt files out of the deployment. Saves on the Vercel domain are separate from local ones.
+
 ## Included in this chapter
 
 - An illustrated neighborhood title screen and photo covers on the calendar.

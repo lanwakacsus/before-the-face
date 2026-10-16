@@ -1,0 +1,21 @@
+{
+  "tool": "Built-in image_gen",
+  "assets": [
+    {
+      "file": "assets/cafe.png",
+      "prompt": "Use case: photorealistic-natural. Asset: wide 16:9 background for a modern grounded dating game. Empty neighborhood cafe at blue hour after rain, warm amber pendant lighting, large windows with blurred city lights, dark wood, small tables, an unoccupied table for two in foreground, tasteful plants. Cinematic editorial photograph, believable everyday place, muted teal and tobacco palette, slightly underexposed to allow light interface overlay. No people, text, logos, watermark."
+    },
+    {
+      "file": "assets/alex.png",
+      "prompt": "Use case: photorealistic-natural. Asset: portrait of a fictional adult dating-game character. Candid waist-up editorial photograph of Alex, a 34-year-old woman with medium brown skin, short curly dark hair, round glasses, a soft full face and average build, wearing a rust cardigan over a plain tee, seated in a neighborhood cafe. Relaxed slightly tentative smile, natural skin texture, ordinary attractive human rather than glamour model. Warm window light, dark softly blurred teal background. Vertical 2:3 composition, head fully visible. Modern realistic setting, no anime, no text, no logos."
+    },
+    {
+      "file": "assets/jamie.png",
+      "prompt": "Use case: photorealistic-natural. Asset: portrait of a fictional adult dating-game character. Candid waist-up editorial photograph of Jamie, a 32-year-old man with fair skin and freckles, slightly receding short auburn hair, light stubble, solid broad build, wearing a faded navy overshirt over a plain white tee, seated in a neighborhood cafe. Friendly open expression, natural imperfect skin texture, ordinary human rather than glamour model. Warm window light, dark softly blurred teal background. Vertical 2:3 composition, head fully visible. Modern realistic setting, no anime, no text, no logos."
+    },
+    {
+      "file": "assets/rowan.png",
+      "prompt": "Use case: photorealistic-natural. Asset: portrait of a fictional adult dating-game character. Candid waist-up editorial photograph of Rowan, a 30-year-old nonbinary adult with East Asian features, straight shoulder-length black hair tucked behind one ear, a small silver earring, slim build, wearing an olive work jacket over a plain black tee, seated in a neighborhood cafe. Thoughtful understated smile, natural skin texture, ordinary human rather than glamour model. Warm window light, dark softly blurred teal background. Vertical 2:3 composition, head fully visible. Modern realistic setting, no anime, no text, no logos."
+    }
+  ]
+}

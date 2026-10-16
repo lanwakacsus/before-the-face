@@ -1,0 +1,17 @@
+[
+  {
+    "id": "maya",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Asset type: fictional adult character portrait for a grounded modern dating game, revealed after substantial conversation. Subject: Maya, a fictional 29-year-old South Asian woman with dark wavy shoulder-length hair, warm brown skin, average build, a slightly crooked friendly smile, wearing a simple burgundy cardigan over a grey top. Candid waist-up seated at a small neighborhood cafe table, looking toward the camera as if listening to a friend. Natural proportions and visible skin texture, ordinary everyday clothes, relaxed unstaged posture. Warm window light, softly blurred cafe backdrop, realistic editorial photograph, vertical portrait composition. No text, no watermark, no glamour retouching, no anime."
+  },
+  {
+    "id": "daniel",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Asset type: fictional adult character portrait for a grounded modern dating game, revealed after substantial conversation. Subject: Daniel, a fictional 36-year-old East Asian man with short black hair, a little stubble, glasses, average build, wearing a navy knit sweater. His expression is gently amused, slightly shy. Candid waist-up seated at a small neighborhood cafe table, looking toward the camera as if listening to a friend. Natural proportions and visible skin texture, ordinary everyday clothes, relaxed unstaged posture. Warm window light, softly blurred cafe backdrop, realistic editorial photograph, vertical portrait composition. No text, no watermark, no glamour retouching, no anime."
+  },
+  {
+    "id": "sam",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Asset type: fictional adult character portrait for a grounded modern dating game, revealed after substantial conversation. Subject: Sam, a fictional 31-year-old white woman with short auburn hair, freckles, a broad smile, sturdy build, wearing a casual olive overshirt over a cream t-shirt. Candid waist-up seated at a small neighborhood cafe table, looking toward the camera as if listening to a friend. Natural proportions and visible skin texture, ordinary everyday clothes, relaxed unstaged posture. Warm window light, softly blurred cafe backdrop, realistic editorial photograph, vertical portrait composition. No text, no watermark, no glamour retouching, no anime."
+  }
+]

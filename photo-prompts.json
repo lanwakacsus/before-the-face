@@ -1,0 +1,37 @@
+[
+  {
+    "id": "neighborhood",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Asset: wide cinematic background for a contemporary neighborhood dating game's home screen. A believable quiet residential city corner at blue hour, warm light from a small corner cafe, apartment windows above, bicycles parked outside, wet pavement after light rain, subtle violet dusk and amber light. Wide landscape composition, street and cafe on the right, darker quiet building facade at the left leaving space for title text. Lived-in, inviting, understated independent film still, natural photographic texture. No people, no faces, no legible signs, no text, no logos. Not fantasy, not anime, not glossy luxury advertising."
+  },
+  {
+    "id": "alex-books",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Asset: casual phone photo sent in a realistic dating game. An ordinary paperback open face down with a plain unlettered cover, another worn book and a ceramic mug on a small slightly cluttered wooden table beside a rain-speckled apartment window. A folded laundry basket in soft background. Overcast afternoon light with a warm reading lamp. Unpolished casual snapshot from above, intimate everyday detail, square composition. No person, no hands, no faces or reflections of people, no legible text, no logos, no watermark."
+  },
+  {
+    "id": "ben-noodles",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Asset: casual phone photo a restaurant manager texts on a day off. A takeaway carton of noodles with vegetables on a modest apartment kitchen counter beside wooden chopsticks and a crumpled plain paper bag. Slightly untidy, natural domestic light, believable quick smartphone snapshot from a slightly crooked overhead angle, square composition. No people, hands, faces, mirrors, legible text, labels, brands, logos, or watermark. Appetizing but not polished restaurant advertising."
+  },
+  {
+    "id": "morgan-chair",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Asset: casual phone snapshot sent by an observant neighborhood walker in a realistic dating game. A tiny doll-sized wooden chair mysteriously placed beside the trunk of a street tree in a little planting bed on an ordinary city sidewalk. The miniature chair is unmistakably tiny relative to the tree and sidewalk paving stones. Shot looking down from standing height, sidewalk and brick building background, natural late afternoon light, slightly imperfect smartphone composition, square. No people, faces, hands, legible text, brands, logos, watermark. A real little discovery, not whimsical fantasy."
+  },
+  {
+    "id": "maya-cupboard",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Asset: casual phone photo sent in a realistic dating game. A small secondhand wooden cupboard halfway painted muted green in a modest apartment, one door fresh green and the other sanded natural wood, uneven first coat, a roller tray and paintbrush on old plain protective brown paper below. Lived-in natural window light, candid crooked smartphone snapshot, square framing with whole cupboard visible. No people, hands, faces, reflections of people, legible text, logos, watermark. Work in progress, not glossy interior design."
+  },
+  {
+    "id": "daniel-walk",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Asset: casual phone photo sent by someone on an early walk in a modern realistic dating game. An ordinary quiet tree-lined neighborhood street at sunrise with brick houses, a low wall, long shadows and a delivery van far away with no branding. A small surprising patch of warm sunlight on the pavement as the focal point. Candid eye-level smartphone snapshot, understated, square composition, realistic slightly imperfect photo. No people, faces, reflections of people, legible text, logos, watermark."
+  },
+  {
+    "id": "sam-cat",
+    "mode": "built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Asset: casual phone photo a bicycle mechanic sends in a realistic dating game. A very ordinary slightly grumpy tabby house cat sitting firmly inside a bicycle helmet on a modest apartment floor beside a pair of trainers, looking at the camera. Natural afternoon window light, charming candid quick smartphone snapshot from above, square composition. Realistic anatomy, ordinary home clutter. No human people, faces, hands, reflections of people, legible text, logos, watermark."
+  }
+]
